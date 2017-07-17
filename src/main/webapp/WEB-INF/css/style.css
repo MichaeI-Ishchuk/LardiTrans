@@ -1,0 +1,107 @@
+#form_main {
+        background: purple none repeat scroll 0 0;
+        left: 0px;
+        right: 0px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        position: absolute;
+        text-align: center;
+        top: 100px;
+        border-radius: 15px;
+        width: 200px;
+        margin: auto;
+}
+
+
+#account {
+        left: 0px;
+        right: 0px;
+        margin: auto;
+        width: 500px;
+
+        top: 50px;
+       position: absolute;
+
+
+}
+
+table {
+
+color: purple;
+font-size: 1.2rem;
+text-align: center;
+margin: auto;
+border: 2px solid;
+}
+
+th,td{
+border: 2px solid;
+}
+
+#error
+{
+        left: 0px;
+        right: 0px;
+        margin: auto;
+
+        padding-bottom: 20px;
+        padding-top: 20px;
+
+}
+
+#user_registration {
+        background: purple none repeat scroll 0 0;
+        left: 0px;
+        right: 0px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        position: absolute;
+        text-align: right;
+        top: 100px;
+        border-radius: 15px;
+        width: 350px;
+        margin: auto;
+        color: #fff;
+        font-size: 1.4rem;
+        }
+
+
+input
+{
+ border-radius: 5px;
+ margin: 5px;
+}
+
+input[type="submit"]
+{
+ border-radius: 5px;
+  padding:5px 15px;
+  left: 0px;
+  right: 0px;
+  width:100px;
+  margin: auto;
+}
+
+label
+{
+ margin-left:10px
+}
+
+#welcome{
+
+text-align: center;
+
+}
+
+
+a {
+    color: #fff;
+    font-size: 1.8rem;
+
+}
+
+span {
+    color: purple;
+    font-size: 1.8rem;
+
+}
