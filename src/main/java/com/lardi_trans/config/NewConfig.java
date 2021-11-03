@@ -13,4 +13,11 @@ public class NewConfig {
 
 
     }
+
+    public  void toDoSomething()
+    {
+
+        System.out.println("to doing......");
+
+    }
 }
